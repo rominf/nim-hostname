@@ -1,2 +1,2 @@
 # nim-hostname
-Nim library to get/set hostname
+Nim library to get/set a hostname
